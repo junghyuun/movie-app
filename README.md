@@ -1,1 +1,1 @@
-# movie App 🍿
+# movie app 🍿
