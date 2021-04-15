@@ -4,7 +4,8 @@ import "./About.css";
 function About() {
   return (
     <div className="about__container">
-      <span>I built it because I love movies 🎬</span>
+      <span>What is Movie App?</span>
+      <span>It's a movie recommendation service.<br/>and It's also my react first toy-project.<br/>I hope you guys enjoy it 😊🎬</span>
     </div>
   );
 }
